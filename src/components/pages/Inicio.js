@@ -1,6 +1,5 @@
 import { Col, Row } from "reactstrap";
 import ItemCarousel from "../ItemCarousel";
-import abraco from '../images/abraco.jpg';
 
 function Inicio() {
     return (
